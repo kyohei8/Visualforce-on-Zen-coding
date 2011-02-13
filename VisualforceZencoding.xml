@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<templates>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:actionFunction&gt;" enabled="true" name="vfactf">&lt;apex:actionFunction name="${cursor}" /&gt;
+</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:actionPoller&gt;" enabled="true" name="vfactp">&lt;apex:actionPoller /&gt;
+</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:actionRegion&gt;" enabled="true" name="vfactr">&lt;apex:actionRegion /&gt;
+</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:actionStatus&gt;" enabled="true" name="vfactst">&lt;apex:actionStatus /&gt;
+</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:actionSupport&gt;" enabled="true" name="vfactsp">&lt;apex:actionSupport /&gt;
+</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:attribute&gt;" enabled="true" name="vfatt">&lt;apex:attribute name="${cursor}" description="" type="${cursor}" required="" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:column&gt;" enabled="true" name="vfcol">&lt;apex:column value="${cursor}" /&gt; 
+</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:commandButton&gt;" enabled="true" name="vfcmdb">&lt;apex:commandButton action="${cursor}" value="${cursor}" /&gt;
+</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:commandLink&gt;" enabled="true" name="vfcmdl">&lt;apex:commandLink action="${cursor}" value="${cursor}" /&gt;
+</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:component&gt;" enabled="true" name="vfcmp">&lt;apex:component&gt;
+
+&lt;/apex:component&gt;
+</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:componentBody&gt;" enabled="true" name="vfcmpb">&lt;apex:componentBody &gt;
+</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:composition&gt;" enabled="true" name="vfcmpstn">&lt;apex:composition template="${cursor}"&gt;
+
+&lt;/apex:composition&gt;
+</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:dataList&gt;" enabled="true" name="vfdl">&lt;apex:dataList value="${cursor}" var="${cursor}" &gt;
+
+&lt;/apex:dataList&gt;
+</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:dataTable&gt;" enabled="true" name="vfdt">&lt;apex:dataTable value="${cursor}" var="" &gt;
+
+&lt;/apex:dataTable&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:define&gt;" enabled="true" name="vfdf">&lt;apex:define name="${cursor}"&gt;&lt;/apex:define&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:detail&gt;" enabled="true" name="vfdtl">&lt;apex:detail /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:enhancedList&gt;" enabled="true" name="vfehl">&lt;apex:enhancedList type="${cursor}" height="" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:facet&gt;" enabled="true" name="vffct">&lt;apex:facet name="${cursor}"&gt;&lt;/apex:facet&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:flash&gt;" enabled="true" name="vffls">&lt;apex:flash src="${cursor}" height="" width="" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:form&gt;" enabled="true" name="vffm">&lt;apex:form&gt;
+
+&lt;/apex:form&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:iframe&gt;" enabled="true" name="vfifrm">&lt;apex:iframe src="${cursor}" scrolling="" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:image&gt;" enabled="true" name="vfimg">&lt;apex:image value="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:include&gt;" enabled="true" name="vficld">&lt;apex:include pageName="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:includeScript&gt;" enabled="true" name="vficldsp">&lt;apex:includeScript value="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:inputCheckbox&gt;" enabled="true" name="vfipcb">&lt;apex:inputCheckbox value="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:inputField&gt;" enabled="true" name="vfipf">&lt;apex:inputField value="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:inputFile&gt;" enabled="true" name="vfipfl">&lt;apex:inputFile value="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:inputHidden&gt;" enabled="true" name="vfiphd">&lt;apex:inputHidden value="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:inputSecret&gt;" enabled="true" name="vfipscrt">&lt;apex:inputSecret value="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:inputText&gt;" enabled="true" name="vfiptx">&lt;apex:inputText value="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:inputTextarea&gt;" enabled="true" name="vfipta">&lt;apex:inputTextarea value="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:insert&gt;" enabled="true" name="vfinst">&lt;apex:insert name="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:listViews&gt;" enabled="true" name="vflv">&lt;apex:ListViews type="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:message&gt;" enabled="true" name="vfmsgs">&lt;apex:message /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:messages&gt;" enabled="true" name="vfmsg">&lt;apex:messages /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:outputField&gt;" enabled="true" name="vfopf">&lt;apex:outputField value="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:outputLabel&gt;" enabled="true" name="vfoplbl">&lt;apex:outputLabel value="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:outputLink&gt;" enabled="true" name="vfoplnk">&lt;apex:outputLink value="${cursor}"&gt;&lt;/apex:outputLink&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:outputPanel&gt;" enabled="true" name="vfoppnl">&lt;apex:outputPanel&gt;
+
+&lt;/apex:outputPanel&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:outputText&gt;" enabled="true" name="vfoptx">&lt;apex:outputText value="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:page&gt;" enabled="true" name="vfpg">&lt;apex:page&gt;
+
+&lt;/apex:page&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:pageBlock&gt;" enabled="true" name="vfpblc">&lt;apex:pageBlock&gt;
+
+&lt;/apex:pageBlock&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:pageBlockButtons&gt;" enabled="true" name="vfpbbtn">&lt;apex:pageBlockButtons&gt;
+
+&lt;/apex:pageBlockButtons&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:pageBlockSection&gt;" enabled="true" name="vfpbsc">&lt;apex:pageBlockSection&gt;
+
+&lt;/apex:pageBlockSection&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:pageBlockSectionItem&gt;" enabled="true" name="vfpbsch">&lt;apex:pageBlockSectionItem&gt;
+
+&lt;/apex:pageBlockSectionItem&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:pageBlockTable&gt;" enabled="true" name="vfpbtbl">&lt;apex:pageBlockTable value="${cursor}" var=""&gt;
+
+&lt;/apex:pageBlockTable&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:pageMessage&gt;" enabled="true" name="vfpmsg">&lt;apex:pageMessage severity="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:pageMessages&gt;" enabled="true" name="vfpmsgs">&lt;apex:pageMessages /&gt;
+
+        </template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:panelBar&gt;" enabled="true" name="vfpnlbr">&lt;apex:panelBar&gt;
+
+&lt;/apex:panelBar&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:panelBarItem&gt;" enabled="true" name="vfpnlbI">&lt;apex:panelBarItem&gt;&lt;/apex:panelBarItem&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:panelGrid&gt;" enabled="true" name="vfpnlgrd">&lt;apex:panelGrid columns="${cursor}"&gt;
+&lt;/apex:panelGrid&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:panelGroup&gt;" enabled="true" name="vfpnlgrp">&lt;apex:panelGroup&gt;
+&lt;/apex:panelGroup&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:param&gt;" enabled="true" name="vfprm">&lt;apex:param value="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:relatedList&gt;" enabled="true" name="vfrl">&lt;apex:relatedList list="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:repeat&gt;" enabled="true" name="vfrpt">&lt;apex:repeat value="${cursor}" var=""&gt;
+
+&lt;/apex:repeat&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:scontrol&gt;" enabled="true" name="vfsctrl">&lt;apex:scontrol controlName="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:sectionHeader&gt;" enabled="true" name="vfschd">&lt;apex:sectionHeader /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:selectCheckboxes&gt;" enabled="true" name="vfslctbxs">&lt;apex:selectCheckboxes value="${cursor}"&gt;
+
+&lt;/apex:selectCheckboxes&gt;
+</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:selectList&gt;" enabled="true" name="vfslctl">&lt;apex:selectList value="${cursor}" &gt;
+
+&lt;/apex:selectList&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:selectOption&gt;" enabled="true" name="vfslctop">&lt;apex:selectOption itemValue="${cursor}" itemLabel="" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:selectOptions&gt;" enabled="true" name="vfslctops">&lt;apex:selectOptions value="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:selectRadio&gt;" enabled="true" name="vfslctrd">&lt;apex:selectRadio value="${cursor}"&gt;
+
+&lt;/apex:selectRadio&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:stylesheet&gt;" enabled="true" name="vfss">&lt;apex:stylesheet value="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:tab&gt;" enabled="true" name="vftab">&lt;apex:tab label="${cursor}" &gt;&lt;/apex:tab&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:tabPanel&gt;" enabled="true" name="vftabp">&lt;apex:tabPanel&gt;
+
+&lt;/apex:tabPanel&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:toolbar&gt;" enabled="true" name="vftlbr">&lt;apex:toolbar&gt;
+
+&lt;/apex:toolbar&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:toolbarGroup&gt;" enabled="true" name="vftlbrgrp">&lt;apex:toolbarGroup&gt;
+
+&lt;/apex:toolbarGroup&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:variable&gt;" enabled="true" name="vfvar">&lt;apex:variable value="${cursor}" var="" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;apex:vote&gt;" enabled="true" name="vfvote">&lt;apex:vote objectId="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;chatter:feed&gt;" enabled="true" name="vfchtrfd">&lt;chatter:feed entityId="${cursor}" /&gt; </template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;chatter:feedWithFollowers&gt;" enabled="true" name="vfchtrfdw">&lt;chatter:feedWithFollowers entityId="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;chatter:follow&gt;" enabled="true" name="vfchtrflw">&lt;chatter:follow entityId="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;chatter:followers&gt;" enabled="true" name="vfchtrflws">&lt;chatter:followers entityId="${cursor}" /&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;ideas:detailOutputLink&gt;" enabled="true" name="vfideadopl">&lt;ideas:detailOutputLink page="${cursor}" ideaId=""&gt;&lt;/ideas:detailOutputLink&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;ideas:listOutputLink&gt;" enabled="true" name="vfidealopl">&lt;ideas:listOutputLink page="${cursor}" &gt;&lt;/ideas:listOutputLink&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;ideas:profileListOutputLink&gt;" enabled="true" name="vfideaprfl">&lt;ideas:profileListOutputLink page="${cursor}"&gt;&lt;/ideas:profileListOutputLink&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;messaging:attachment&gt;" enabled="true" name="vfmsgatc">&lt;messaging:attachment&gt;
+
+&lt;/messaging:attachment&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;messaging:emailHeader&gt;" enabled="true" name="vfmsgeh">&lt;messaging:emailHeader name="${cursor}"&gt;
+
+&lt;/messaging:emailHeader&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;messaging:emailTemplate&gt;" enabled="true" name="vfmsgtmp">&lt;messaging:emailTemplate subject="${cursor}" &gt;
+
+&lt;/messaging:emailTemplate&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;messaging:htmlEmailBody&gt;" enabled="true" name="vfmsghtmleb">&lt;messaging:htmlEmailBody&gt;
+
+&lt;/messaging:htmlEmailBody&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;messaging:plainTextEmailBody&gt;" enabled="true" name="vfmsgtxeb">&lt;messaging:plainTextEmailBody&gt;
+
+&lt;/messaging:plainTextEmailBody&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;site:googleAnalyticsTracking&gt;" enabled="true" name="vfsitegglan">&lt;site:googleAnalyticsTracking/&gt;</template>
+  <template autoinsert="true" context="ru.zencoding.eclipse.templates.html" deleted="false" description="&lt;site:previewAsAdmin&gt;" enabled="true" name="vfsiteprvad">&lt;site:previewAsAdmin/&gt;</template>
+</templates>
